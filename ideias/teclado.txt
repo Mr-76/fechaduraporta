@@ -1,0 +1,3 @@
+usar um teclado diretamente nao é uma ideia tao pratica, nao da pra soldar fios nos cotatos pois os contatos sao muito sensiveis
+nem da pra usar na pcb do teclado pois ela ta coberta com algum tipo de material que a solda nao adrere
+decidi fazer um teclado do começo
