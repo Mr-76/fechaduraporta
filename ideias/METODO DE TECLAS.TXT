@@ -1,0 +1,14 @@
+planejamento para ter 10 numeros |0-1-2-3-4-5-6-7-8-9|
+
+usar 4 analog reads:
+
+exemplo 0 = A0 , 1 =A1, 2= A2,3 = A3, 4 = A0+A1,5=A0+A2,6 = A0+A3,7=A1+A2,8=A2+A3,9=A2+A3.
+
+
+A0 ---- PODE TER A1 ,A2,A3
+A1 ---- PODE TER A2 ,A3
+A3 ---- PODE TER A2
+
+
+TODAS POSIBILIDADES DIFERENTES
+
